@@ -1,0 +1,1 @@
+A600CG A601CG Device Tree for CM12.1
